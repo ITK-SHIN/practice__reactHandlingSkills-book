@@ -1,0 +1,9 @@
+.Articles-lists {
+  display: flex;
+  justify-content: center;
+  list-style: none;
+}
+
+.Articles-list {
+  margin-left: 2rem;
+}
